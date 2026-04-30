@@ -1,5 +1,5 @@
 {
   "framework": "nuxtjs",
-  "buildCommand": "yarn build",
+  "buildCommand": "yarn generate",
   "outputDirectory": ".output/public"
 }
